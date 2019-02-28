@@ -1,4 +1,4 @@
--- 查看个人信息修改历史
+-- 鏌ョ湅涓汉淇℃伅淇敼鍘嗗彶
 SELECT
     "A1"."HSTRY_ID"                "HSTRY_ID",
     "A1"."SR_NO_ID"                "SR_NO_ID",

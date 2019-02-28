@@ -1,7 +1,7 @@
--- 查看当前用户下的所有表
+-- 鏌ョ湅褰撳墠鐢ㄦ埛涓嬬殑鎵�鏈夎〃
 select table_name from user_tables;
 
--- 查看所有表注释
+-- 鏌ョ湅鎵�鏈夎〃娉ㄩ噴
 
 select TABLE_NAME ,
 COLUMN_NAME ,
