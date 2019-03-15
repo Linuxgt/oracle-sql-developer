@@ -1,6 +1,6 @@
---²éÑ¯·ÀhackÉèÖÃ
+--æŸ¥è¯¢é˜²hackè®¾ç½®
 select * from param where param_item_id='6';
---ÆôÓÃ·ÀhackÉèÖÃ
+--å¯ç”¨é˜²hackè®¾ç½®
 update param set param_vl='1' where param_item_id='6';
---½ûÓÃ·ÀhackÉèÖÃ
+--ç¦ç”¨é˜²hackè®¾ç½®
 update param set param_vl='0' where param_item_id='6';
